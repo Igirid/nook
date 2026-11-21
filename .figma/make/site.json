@@ -1,0 +1,10 @@
+{
+  "description": "Shop owners can share photos, location, and details about available shop space, making it easy to submit listings and notify the team for follow-up.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
